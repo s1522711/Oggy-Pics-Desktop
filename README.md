@@ -1,2 +1,2 @@
-# Oggy Pics - Desktop
+# Oggy Pics Desktop
 this has no reason to exist
